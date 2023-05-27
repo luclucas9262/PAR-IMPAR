@@ -6,7 +6,7 @@ public class Numero {
 
     Scanner entrada = new Scanner(System.in);
 
-    private Double a;
+    private double a;
 
     public void SetA() {
         System.out.println("Digite um Número: ");
@@ -14,7 +14,7 @@ public class Numero {
 
     }
 
-    public Double GetA() {
+    public double GetA() {
         return this.a;
     }
 
