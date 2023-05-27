@@ -19,7 +19,7 @@ public class Numero {
     }
 
     public void SetPar() {
-        System.out.println("PAR " + a);
+        System.out.println("PAR ");
 
     }
 
